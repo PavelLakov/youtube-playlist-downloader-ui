@@ -23,8 +23,8 @@ This is a simple, cross-platform GUI application for downloading **YouTube playl
 ### 1. Clone or download this project
 
 ```
-git clone https://github.com/PavelLakov/youtube-playlist-downloader-gradio.git
-cd youtube-playlist-downloader-gradio
+git clone https://github.com/PavelLakov/youtube-playlist-downloader-ui.git
+cd youtube-playlist-downloader-ui
 ```
 
 
