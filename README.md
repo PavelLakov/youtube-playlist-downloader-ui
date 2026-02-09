@@ -11,7 +11,7 @@ Live demo:  https://huggingface.co/spaces/pavellakov/youtube-playlist-downloader
 
 - ✅ Paste any YouTube playlist URL
 - ✅ Choose between **MP4** (video) or **MP3** (audio)
-- ✅ Select your preferred download folder via native file dialog
+- ✅ Download happens as a ZIP via browser
 - ✅ Runs in your browser with an interactive interface
 - ✅ No console needed
 
