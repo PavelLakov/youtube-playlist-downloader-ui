@@ -1,9 +1,9 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://huggingface.co/spaces/pavellakov/youtube-playlist-downloader)
+
 # 🎬 YouTube Playlist Downloader (Gradio UI)
 
 This is a simple, cross-platform GUI application for downloading **YouTube playlists** as either **MP4 videos** or **MP3 audio**, built using [Gradio](https://gradio.app/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
----
-Live demo:  https://huggingface.co/spaces/pavellakov/youtube-playlist-downloader
 
 ---
 
